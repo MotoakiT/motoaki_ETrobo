@@ -30,3 +30,4 @@ extern void solve_bingo_task(intptr_t exinf);
 #endif
 
 #endif  // ETRC22_APP_H_
+//a
